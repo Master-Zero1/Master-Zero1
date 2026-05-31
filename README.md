@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prithvi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%40Master-Zero1&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=750&lines=Data+Pipeline+Enthusiast+%F0%9F%9A%80;Machine+Learning+%2F+Deep+Learning+Explorer;Wrestling+with+NYC+Airbnb+data+at+3am+%F0%9F%8C%99;Drowning+in+research+papers+%E2%98%95;Abstract+visionary+%C2%AF%5C_(+%E3%83%84+)_%2F%C2%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=750&lines=Data+Analysis+Enthusiast+%F0%9F%9A%80;Machine+Learning+%2F+Deep+Learning+Explorer;Wrestling+with+NYC+Airbnb+data+at+3am+%F0%9F%8C%99;Drowning+in+research+papers+%E2%98%95;Abstract+visionary+%C2%AF%5C_(+%E3%83%84+)_%2F%C2%AF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 ```js
 const prithvi = {
-  alias     : "Master-Zero1",
+  alias     : "Master-Zero1 (👉ﾟヮﾟ)👉",
   status    : "Student → Future ML/Data Engineer",
-  interests : ["Data Pipelines", "Machine Learning", "Deep Learning"],
+  interests : ["Data Analysis", "Machine Learning", "Deep Learning"],
   sideQuest : "Abstract art visionary (probably)  ¯\\_(ツ)_/¯",
   lookingFor: "Hackathon teammates! 🤝",
 };
@@ -44,7 +44,7 @@ const prithvi = {
       <br/><br/>
       My official research project. Deep in papers right now, learning to wield <strong>ML/DL</strong> for cardiac data analysis.
       <br/><br/>
-      <em>Please send coffee ☕ &nbsp;<code>&gt;_&lt;</code></em>
+      <em>Please send coffee ☕ >_< &nbsp;<code>&gt;_&lt;</code></em>
     </td>
   </tr>
 </table>
@@ -103,7 +103,6 @@ const prithvi = {
 
 ## 🐍 Contribution Snake
 
-<!-- ⚠️ Requires a GitHub Action to generate the SVG. -->
 <!-- Setup: https://github.com/Platane/snk -->
 
 <div align="center">
