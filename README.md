@@ -31,7 +31,7 @@ const prithvi = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 air-bnb-data-pipeline</h3>
+      <h3>🏠 nyc-airbnb-price-predictor</h3>
       <code>status: active</code>
       <br/><br/>
       Wrangling the <strong>April 2026 NYC Airbnb</strong> dataset — cleaning chaos, handling preprocessing, and building an ML model to <strong>predict nightly prices</strong>.
