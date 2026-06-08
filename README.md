@@ -31,12 +31,12 @@ const prithvi = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 nyc-airbnb-price-predictor</h3>
+      <h3>⚛️ higgs-signal-classifier</h3>
       <code>status: active</code>
       <br/><br/>
-      Wrangling the <strong>April 2026 NYC Airbnb</strong> dataset — cleaning chaos, handling preprocessing, and building an ML model to <strong>predict nightly prices</strong>.
+      Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions — because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
       <br/><br/>
-      <em>Will it predict my rent? Probably not 😅</em>
+      <em>Peter Higgs waited 50 years for his boson. My model does it in milliseconds. 😤</em>
     </td>
     <td width="50%" valign="top">
       <h3>💗 CardioClean</h3>
