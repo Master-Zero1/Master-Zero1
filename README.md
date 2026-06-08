@@ -36,7 +36,7 @@ const prithvi = {
       <br/><br/>
       Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions — because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
       <br/><br/>
-      <em>Peter Higgs waited 50 years for his boson. My model does it in milliseconds. 😤</em>
+      <em>Peter Higgs waited 50 years for his boson. My model will do it in milliseconds. 😤 (probably! :))</em>
     </td>
     <td width="50%" valign="top">
       <h3>💗 CardioClean</h3>
