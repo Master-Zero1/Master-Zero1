@@ -26,12 +26,12 @@ const prithvi = {
 
 ---
 
-## 📁 Active Projects
+##  Active Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚛️ higgs-signal-classifier</h3>
+      <h3> higgs-signal-classifier</h3>
       <code>status: active</code>
       <br/><br/>
       Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions — because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
@@ -39,7 +39,7 @@ const prithvi = {
       <em>Peter Higgs waited 50 years for his boson. My model will do it in milliseconds. 😤 (probably! :))</em>
     </td>
     <td width="50%" valign="top">
-      <h3>💗 CardioClean</h3>
+      <h3> CardioClean</h3>
       <code>status: research</code>
       <br/><br/>
       My official research project. Deep in papers right now, learning to wield <strong>ML/DL</strong> for cardiac data analysis.
@@ -51,7 +51,7 @@ const prithvi = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -71,7 +71,7 @@ const prithvi = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ const prithvi = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -91,7 +91,7 @@ const prithvi = {
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <!-- Setup: https://github.com/Platane/snk -->
 
@@ -107,7 +107,7 @@ const prithvi = {
 
 ---
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 
