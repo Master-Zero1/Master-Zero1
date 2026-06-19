@@ -32,9 +32,9 @@ const prithvi = {
   <tr>
     <td width="50%" valign="top">
       <h3> higgs-signal-classifier</h3>
-      <code>status: active</code>
+      <code>status: completed</code>
       <br/><br/>
-      Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions — because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
+      Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions -> because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
       <br/><br/>
       <em>Peter Higgs waited 50 years for his boson. My model will do it in milliseconds. 😤 (probably! :))</em>
     </td>
