@@ -31,12 +31,12 @@ const prithvi = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3> higgs-signal-classifier</h3>
-      <code>status: completed</code>
+      <h3> pokemon-tcg-bot</h3>
+      <code>status: in progress</code>
       <br/><br/>
-      Teaching a machine to find the <strong>Higgs boson</strong> in 11 million particle collisions -> because apparently CERN spent $13 billion on a collider and still needs an XGBoost model to sort through the mess.
+      Building an AI agent to play the <strong>Pokémon Trading Card Game</strong> using heuristic search, game-state evaluation, and competitive meta analysis -> because apparently memorizing 1,200+ cards and calculating multi-prize knockout lines every turn is considered a "children's card game."
       <br/><br/>
-      <em>Peter Higgs waited 50 years for his boson. My model will do it in milliseconds. 😤 (probably! :))</em>
+      <em>Yeah, I still play Pokémon games. So What? You think a kid could build this AI bot? @_@ </em>
     </td>
     <td width="50%" valign="top">
       <h3> CardioClean</h3>
